@@ -18,3 +18,14 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+h1 {
+    color: blue;
+}
+
+
+#series {
+    background-color: brown;
+    margin: 20px;
+    padding: 80px;
+}
